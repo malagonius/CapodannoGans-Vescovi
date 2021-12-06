@@ -8,7 +8,7 @@
     Per procedere con l'iscrizione premere uno dei due seguenti link: (Al momento disabilitato)<br>
     <a href="https://form.jotform.com/213394562163355" style="
     margin: 30px;
-    display: none;
+    display: inline-block;
     border: 2px solid blue;
     width: 200px;
     text-decoration: auto;
@@ -18,7 +18,7 @@
 ">Link 1 </a>   
     <a href=https://form.jotform.com/213394618736363" 
        style="margin: 30px;
-        display: none;
+        display: inline-block;
         border: 2px solid blue;
         width: 200px;
         text-decoration: auto;
