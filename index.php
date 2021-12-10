@@ -5,7 +5,7 @@
     text-align: center;
 ">
     <h1>Pagina di iscrizione Conferenza Gans 2021-2022</h1><br>
-    Per procedere con l'iscrizione premere uno dei due seguenti link: (Al momento disabilitato)<br>
+    Per procedere con l'iscrizione premere uno dei due seguenti link:<br>
     <a href="https://form.jotform.com/213435556360353" style="
     margin: 30px;
     display: inline-block;
